@@ -6,5 +6,6 @@ Meu nome é Yara Schuster
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-
+você entrar em contato comigo
+yara.kwiatkowski@escola.pr.gov.br
 
